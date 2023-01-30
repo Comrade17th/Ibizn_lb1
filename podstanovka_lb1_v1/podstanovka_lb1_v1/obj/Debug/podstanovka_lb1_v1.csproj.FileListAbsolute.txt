@@ -1,0 +1,7 @@
+C:\Users\Cheburashka\Desktop\study\university\ibizn\Ibizn_lb1\podstanovka_lb1_v1\podstanovka_lb1_v1\bin\Debug\podstanovka_lb1_v1.exe.config
+C:\Users\Cheburashka\Desktop\study\university\ibizn\Ibizn_lb1\podstanovka_lb1_v1\podstanovka_lb1_v1\bin\Debug\podstanovka_lb1_v1.exe
+C:\Users\Cheburashka\Desktop\study\university\ibizn\Ibizn_lb1\podstanovka_lb1_v1\podstanovka_lb1_v1\bin\Debug\podstanovka_lb1_v1.pdb
+C:\Users\Cheburashka\Desktop\study\university\ibizn\Ibizn_lb1\podstanovka_lb1_v1\podstanovka_lb1_v1\obj\Debug\podstanovka_lb1_v1.csproj.AssemblyReference.cache
+C:\Users\Cheburashka\Desktop\study\university\ibizn\Ibizn_lb1\podstanovka_lb1_v1\podstanovka_lb1_v1\obj\Debug\podstanovka_lb1_v1.csproj.CoreCompileInputs.cache
+C:\Users\Cheburashka\Desktop\study\university\ibizn\Ibizn_lb1\podstanovka_lb1_v1\podstanovka_lb1_v1\obj\Debug\podstanovka_lb1_v1.exe
+C:\Users\Cheburashka\Desktop\study\university\ibizn\Ibizn_lb1\podstanovka_lb1_v1\podstanovka_lb1_v1\obj\Debug\podstanovka_lb1_v1.pdb
